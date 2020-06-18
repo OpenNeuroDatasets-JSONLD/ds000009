@@ -1,0 +1,10 @@
+file_name	acq_time
+anat/sub-05_inplaneT2.nii.gz	1868-11-07T12:57:53
+func/sub-05_task-stopsignal_run-01_bold.nii.gz	1868-11-07T13:01:11
+func/sub-05_task-stopsignal_run-02_bold.nii.gz	1868-11-07T13:09:14
+func/sub-05_task-balloonanalogrisktask_bold.nii.gz	1868-11-07T13:16:13
+func/sub-05_task-discounting_bold.nii.gz	1868-11-07T13:26:31
+func/sub-05_task-emotionalregulation_run-01_bold.nii.gz	1868-11-07T13:37:34
+func/sub-05_task-emotionalregulation_run-02_bold.nii.gz	1868-11-07T13:44:53
+anat/sub-05_T1w.nii.gz	1868-11-07T13:59:22
+dwi/sub-05_dwi.nii.gz	1868-11-07T14:01:30
